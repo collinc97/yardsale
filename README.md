@@ -4,7 +4,7 @@ Yardsale is superior to other exchange platforms because all data is stored on t
 
 ## Usage
 
-This project is currently only availibe to be deployed locally
+This project is currently only available to be deployed locally
 ###Dependencies
 
 1. Node.js
